@@ -15,6 +15,6 @@ app.use("/user",UserRoutes)
 app.use("/notes",NotesRoutes)
 
 
-app.listen(process.env.PORT, () => {
+app.listen(5002, () => {
     console.log(`app listening at http://localhost:${process.env.PORT}`)
   })
