@@ -5,7 +5,8 @@ npm i
 nodemon index.js
 
 
------> open run front end 
+step 2
+-----> open client folder 
 cd ./client/
 npm i 
 npm run start
